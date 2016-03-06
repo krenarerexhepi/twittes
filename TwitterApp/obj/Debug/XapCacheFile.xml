@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\TwitterApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/19/2012 4:13:38 PM">
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/14/2012 2:23:10 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Background.png" archivePath="Background.png" lastWriteTime="11/14/2012 2:02:31 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/19/2012 4:07:13 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\obj\Debug\TwitterApp.dll" archivePath="TwitterApp.dll" lastWriteTime="11/19/2012 4:13:37 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\packages\Newtonsoft.Json.4.5.10\lib\sl4-windowsphone71\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="11/15/2012 1:45:37 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\icons\appbar.refresh.rest.png" archivePath="icons\appbar.refresh.rest.png" lastWriteTime="9/15/2011 4:33:14 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11/14/2012 2:02:31 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/19/2012 4:13:37 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="11/14/2012 2:02:31 PM" />
+  <file source="C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\icons\appbar.refresh.rest.png" archivePath="icons\appbar.refresh.rest.png" lastWriteTime="9/15/2011 4:33:14 PM" />
+</xapCache>

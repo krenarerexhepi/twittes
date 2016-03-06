@@ -1,0 +1,14 @@
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\Background.png
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\TwitterApp.dll
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\TwitterApp.pdb
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\AppManifest.xaml
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\TwitterApp.xap
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\App.g.i.cs
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\MainPage.g.i.cs
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\TwitterApp.g.resources
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\TwitterApp.dll
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\TwitterApp.pdb
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\obj\Debug\XapCacheFile.xml
+c:\users\krenare\documents\visual studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krenare\Documents\Visual Studio 2010\Projects\Twittes\TwitterApp\Bin\Debug\Newtonsoft.Json.xml
