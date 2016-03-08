@@ -24,6 +24,12 @@ Once you've pushed changes to your local repository, you can issue a pull reques
 You are free to use a code.
 Let me know where did you use it [Write me](krenarerexhepi@gmail.com)
 
+## More information
+
+* Project it is developed in [Visual Studio](https://www.visualstudio.com/) 
+* The Language is C# and design [Xaml] (https://msdn.microsoft.com/en-us/library/cc295302.aspx)
+* Windows Phone App 
+
 ## License
 
 The contents of this repository are covered under the [MIT License](https://github.com/krenarerexhepi/twittes/blob/master/LICENCE).
