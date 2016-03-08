@@ -7,4 +7,4 @@ The app is writen in C# language and in Xamarin Studio.
 
 ## License
 
-The contents of this repository are covered under the [MIT License](LICENSE).
+The contents of this repository are covered under the [MIT License](twittes/README.md).
