@@ -5,9 +5,9 @@ The app use twitter API to get the last twittes from the friends of user.
 The app is writen in C# language and in Xamarin Studio. 
 
 
-#The MIT License (MIT)
+######The MIT License (MIT)
 
-##Copyright (c) [2012] [twittes]
+#########Copyright (c) [2012] [twittes]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
