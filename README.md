@@ -6,7 +6,7 @@ The app is writen in C# language and in Xamarin Studio.
 
 ## How to Use
 
-You like twitts ? Like to se you twitts in you app ? Using are welcome!
+You like twittes ? Like to se  twittes in you app ? Using are welcome!
 
 First fork,  this repository.
 
@@ -20,6 +20,9 @@ $ git clone {https://github.com/krenarerexhepi/twittes.git}
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
 
 ![Pull Request Icon](images/pull-request-icon.png)
+
+You are free to use a code.
+Let me know where did you use it [Write me](krenarerexhepi@gmail.com)
 
 ## License
 
